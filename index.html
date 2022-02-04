@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cores Dinâmicas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body onload="testar()">
+    <header class="cabecalho">
+        <a class="cabecalho-logo" href="">Cores Dinâmicas</a>
+        <nav class="cabecalho-menu">       
+           <a class="cabecalho-item" href="https://github.com/felipevianaa7?tab=repositories">@felipevianaa7</a></li>                     
+        </nav>
+    </header>
+    <section class="conteudo-principal">
+       <div class="conteudo-principal-fundo">
+            <p class="pergunta" ><strong>Escolha a cor de fundo:</strong></p>
+            <div class="conteudo-principal-vertical" >               
+                <div class="conteudo-principal-campo-coluna">
+                    <p><input class="coluna" type="text" id="txt1" ></p>
+                </div>
+                <div class="conteudo-principal-campo-coluna">
+                    <p><input class="coluna" type="text" id="txt2"></p>
+                </div>
+                <div class="conteudo-principal-campo-coluna">
+                    <p><input class="coluna" type="text" id="txt3"></p>
+                </div>                               
+            </div> 
+            <div class="conteudo-principal-horizontal" >               
+                <div class="conteudo-principal-campo-coluna">
+                    <p><input class="botao" type="button" style="background: rgb(241, 42, 42);" value="Vermelho" onclick="alterar(1)"></p>
+                </div>
+                <div class="conteudo-principal-campo-coluna">
+                    <p><input class="botao" type="button" style="background: rgb(30, 196, 30);"  value="Verde" onclick="alterar(2)"></p>
+                </div>
+                <div class="conteudo-principal-campo-coluna">
+                    <p><input class="botao" type="button" style="background: rgb(28, 99, 250);" value="Azul" onclick="alterar(3)"></p>
+                </div>                               
+            </div>
+            <div class="conteudo-principal-horizontal" >               
+                <div class="conteudo-principal-campo-coluna">
+                    <p><input class="botao-aleatorio" type="button" value="Aleatório" id="bto1" onclick="roletar(1)"></p>
+                </div>
+                <div class="conteudo-principal-campo-coluna">
+                    <p><input class="botao-aleatorio" type="button" value="Aleatório" id="bto2" onclick="roletar(2)"></p>
+                </div>
+                <div class="conteudo-principal-campo-coluna">
+                    <p><input class="botao-aleatorio" type="button" value="Aleatório" id="bto3" onclick="roletar(3)"></p>
+                </div>                               
+            </div>  
+       </div>  
+    </section>
+    <script src="script.js"></script>    
+</body>
+</html>

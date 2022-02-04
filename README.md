@@ -1,1 +1,1 @@
-# coresdinamicas
+# Projeto Cores Dinâmicas

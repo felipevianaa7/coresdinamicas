@@ -94,15 +94,15 @@ body {
 }
 
 .coluna {
-    width: 160px;
-    height: 250px;
+    width: 150px;
+    height: 245px;
     text-align: center;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.39);
 }
 
 .botao {
-    width: 167px;
-    height: 50px;
+    width: 157px;
+    height: 45px;
     font-size: 24pt;
     text-align: center;
     border: none;
@@ -110,8 +110,8 @@ body {
 }
 
 .botao-aleatorio {
-    width: 167px;
-    height: 50px;
+    width: 157px;
+    height: 45px;
     font-size: 26pt;
     text-align: center;
     color: black;
@@ -149,22 +149,22 @@ input {
     }
     
     .coluna {
-        width: 140px;
-        height: 220px;
+        width: 135px;
+        height: 215px;
         
     }
     
     .botao {
-        width: 150px;
-        height: 40px;
-        font-size: 20pt;
+        width: 145px;
+        height: 35px;
+        font-size: 18pt;
         
     }
     
     .botao-aleatorio {
         width: 150px;
         height: 40px;
-        font-size: 20pt;
+        font-size: 18pt;
         
             
     }
@@ -193,33 +193,25 @@ input {
     }
     
     .coluna {
-        width: 145px;
-        height: 195px;
+        width: 140px;
+        height: 190px;
         
     }
     
     .botao {
-        width: 148px;
-        height: 40px;
-        font-size: 20pt;
+        width: 143px;
+        height: 35px;
+        font-size: 18pt;
         
     }
     
     .botao-aleatorio {
-        width: 148px;
-        height: 40px;
-        font-size: 20pt;
+        width: 143px;
+        height: 35px;
+        font-size: 18pt;
         color: black;
         
             
     } 
 
 }
-
-
-
-
-
-
-
-

@@ -193,21 +193,21 @@ input {
     }
     
     .coluna {
-        width: 140px;
-        height: 190px;
+        width: 120px;
+        height: 170px;
         
     }
     
     .botao {
-        width: 143px;
-        height: 35px;
+        width: 135px;
+        height: 30px;
         font-size: 18pt;
         
     }
     
     .botao-aleatorio {
-        width: 143px;
-        height: 35px;
+        width: 135px;
+        height: 30px;
         font-size: 18pt;
         color: black;
         
@@ -215,3 +215,4 @@ input {
     } 
 
 }
+

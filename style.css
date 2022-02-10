@@ -94,14 +94,14 @@ body {
 }
 
 .coluna {
-    width: 150px;
+    width: 155px;
     height: 245px;
     text-align: center;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.39);
 }
 
 .botao {
-    width: 157px;
+    width: 147px;
     height: 45px;
     font-size: 24pt;
     text-align: center;
@@ -110,7 +110,7 @@ body {
 }
 
 .botao-aleatorio {
-    width: 157px;
+    width: 147px;
     height: 45px;
     font-size: 26pt;
     text-align: center;
@@ -150,7 +150,7 @@ input {
     
     .coluna {
         width: 135px;
-        height: 215px;
+        height: 205px;
         
     }
     
@@ -162,8 +162,8 @@ input {
     }
     
     .botao-aleatorio {
-        width: 150px;
-        height: 40px;
+        width: 145px;
+        height: 35px;
         font-size: 18pt;
         
             
@@ -215,4 +215,3 @@ input {
     } 
 
 }
-

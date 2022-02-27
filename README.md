@@ -1,4 +1,4 @@
-## <p> # Projeto Sorteio Bíblico</p>
+## <p> # Projeto Cores Dinâmicas</p>
 ## Meu segundo projeto que eu criei também usando o método Math.random() para sortear cores aleatórias.
 Para isso preparei dois tipos diferentes de sorteios, um para números e o outro de letras, formando até seis dígitos para formar um código de cor.
 Usei também o evento onload() na tag body para trocar a cor do fundo aleatoriamente.
